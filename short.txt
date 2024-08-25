@@ -1,0 +1,28 @@
+ABSA Aspect Based Sentiment Analysis
+AI Artificial Intellegence
+BiLSTM
+CPU
+CSV
+DL Deep Learning
+FN
+FP
+GPU
+IR
+LSTM
+ML Machine Learning
+MLP
+NB
+NLP Natural Language Processing
+NLTK Natural Language Tool Kit
+NLU
+POS
+RNN
+SA
+SVM Support Vector Machine
+TF-IDF
+TN
+TP
+VADER
+WHO World Health Organizarion
+XGB
+iNLTK indic Natural Language Toolkit
